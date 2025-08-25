@@ -1,13 +1,6 @@
-<div align="center">
-  <a href="https://github.com/phthedevx">
-    <img height="150em" src="https://user-images.githubusercontent.com/71231649/151604515-d72b528b-f458-4522-a9a3-5c8c6f37803a.gif"/>
-  </a>
-</div>
+## 👨🏻‍💻 **Pedro Henrique**
 
-<div align>
-  <h1>Pedro Henrique</h1>
-  <h3>Software Development Student</h3>
-</div>
+```Software Development Student```
 
 ---
 
