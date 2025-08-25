@@ -1,23 +1,25 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phthedevx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <a href="https://github.com/phthedevx">
+    <img height="150em" src="https://user-images.githubusercontent.com/71231649/151604515-d72b528b-f458-4522-a9a3-5c8c6f37803a.gif"/>
+  </a>
 </div>
 
 <div align="center">
-  <h1>Olá, eu sou o Pedro Henrique! 👋</h1>
-  <h3>Desenvolvedor de Software | Entusiasta de Tecnologia</h3>
+  <h1>Hi, I'm Pedro Henrique! 👋</h1>
+  <h3>Software Development Student | Tech Enthusiast</h3>
 </div>
 
 ---
 
-### 💻 Sobre Mim
+### 💻 About Me
 
 <p align="justify">
-  Sou um entusiasta da programação e estudante de Desenvolvimento de Sistemas. Minha jornada é marcada pela busca constante por conhecimento e evolução, com foco especial em tecnologias de back-end. Dedico meu tempo para aprimorar minhas habilidades em <b>Java</b> e <b>Spring</b>, além de explorar ambientes de nuvem com <b>AWS</b> e <b>Docker</b>. Gosto de resolver problemas e escrever códigos limpos e eficientes. Além disso, busco sempre aprimorar minha lógica de programação e pensamento analítico através de desafios diários. 🚀
+  I'm a passionate <b>Software Development student</b> constantly seeking knowledge and growth, with a strong focus on <b>backend technologies</b>. I dedicate my time to honing my skills in <b>Java</b> and <b>Spring</b>, and I'm committed to improving my problem-solving skills by practicing on LeetCode.
 </p>
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
+### 🛠️ My Stacks
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -51,7 +53,7 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phthedevx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
@@ -60,7 +62,7 @@
 
 ---
 
-### 🤝 Conecte-se Comigo
+### 🤝 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/phdevx/" target="_blank">
@@ -77,15 +79,5 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/phthedevx/phthedevx/output/snake.svg" alt="Snake animation" />
-</div>
-<br>
-
-<br clear="both">
-
-[Basic GitHub workflow: merge README.md from topic branch to develop, with a code review, using git](https://www.youtube.com/watch?v=VexyXysb-BM)
-Este vídeo é relevante porque mostra como o processo de "merge" (fusão) é feito no GitHub, o que é fundamental para a colaboração em um projeto.
-http://googleusercontent.com/youtube_content/0
+<img src="https://raw.githubusercontent.com/phthedevx/phthedevx/output/snake.svg" alt="Snake animation" />
