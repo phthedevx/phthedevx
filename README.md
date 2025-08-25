@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<div align="center">
-  <h1>Hi, I'm Pedro Henrique! 👋</h1>
-  <h3>Software Development Student | Tech Enthusiast</h3>
+<div align>
+  <h1>Pedro Henrique</h1>
+  <h3>Software Development Student</h3>
 </div>
 
 ---
