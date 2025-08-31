@@ -49,7 +49,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phthedevx&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=6&hide=HTML,Shell&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phthedevx&layout=compact&theme=dark&langs_count=6&hide=html,shell&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com?user=phthedevx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
@@ -72,5 +72,3 @@
   </a>
 </div>
 
-
-<img src="https://raw.githubusercontent.com/phthedevx/phthedevx/output/snake.svg" alt="Snake animation" />
